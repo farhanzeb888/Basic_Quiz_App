@@ -8,6 +8,7 @@ Score tracking
 
 
 ## Responsive design
+## Screenshots
 ![Screenshot_17-12-2025_9494_](https://github.com/user-attachments/assets/111a3899-bae9-4032-8378-3ce2b4f711fd)
 ![Screenshot_17-12-2025_94854_](https://github.com/user-attachments/assets/019bb4b9-5fad-4f53-8fd3-b71596790a8e)
 
@@ -33,16 +34,6 @@ Answer each question by selecting an option
 
 View your score at the end
 
-Project Structure
-text
-Basic_Quiz_App/
-├── index.html      # Main HTML file
-├── style.css       # Styling
-├── script.js       # Quiz logic
-├── README.md       # This file
-└── questions.js    # Question data (optional)
-Screenshots
-Add screenshots of your quiz app here
 
 Contributing
 Feel free to fork this repository and submit pull requests to improve the quiz application.
